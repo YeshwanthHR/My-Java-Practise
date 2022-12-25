@@ -1,0 +1,8 @@
+class Main{
+  public static void main(String[] arguments){
+    int number1=23;
+    double number2=number1;
+    
+    System.out.println(number2);
+  }
+}
